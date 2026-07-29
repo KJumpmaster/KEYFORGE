@@ -1,2 +1,11 @@
-# KEYFORGE
-Home for KEYFORGE Software
+# KEYFORG
+
+KEYFORGE is the secure communications and synchronization utility that connects the applications and squadron members within the Vanguard C4 system. It works quietly in the background, transferring mission packages, personnel updates, intelligence reports, loadout plans, and other operational information between authorized users. Rather than requiring members to manually email files or manage complicated network folders, KEYFORGE provides a standardized system for sending, receiving, processing, and archiving Vanguard C4 data.
+
+Each squadron is assigned its own protected synchronization path, helping keep its operational information separated from other organizations using the service. KEYFORGE monitors the local GI SCOUT inbox and outbox, uploads newly created packages to Vanguard Sync, and downloads information addressed to the squadron or individual user. Received packages are then delivered to the appropriate Vanguard C4 application for processing, allowing updates to move throughout the squadron while preserving an organized record of what was transmitted.
+
+KEYFORGE is designed to make synchronization simple for the average squadron member. Once the user has registered with Vanguard Sync and completed the initial setup, the utility can automatically check for new information at regular intervals. Clear status indicators, upload and download archives, connection settings, and automatic startup options allow users to verify that the system is operating without needing to understand the network infrastructure behind it.
+
+The utility also supports the command-and-control structure of GI SCOUT. When a commander publishes a mission, approves a new member, distributes an intelligence assessment, updates the roster, or completes an operation, KEYFORGE helps deliver that information to the appropriate personnel. The same system allows pilots and subordinate leaders to return their updates to squadron headquarters, creating a two-way operational communications network rather than a simple one-directional file-sharing service.
+
+Within the larger Vanguard C4 workflow, KEYFORGE acts as the digital courier connecting Sky Pilot, GI SCOUT, and NORDEN II. Sky Pilot can produce the mission package, GI SCOUT can organize and distribute the operation, NORDEN II can prepare aircraft loadouts and attack plans, and KEYFORGE securely moves the information between the participating systems and users. It is the communications backbone that allows the separate Vanguard C4 applications to operate as one coordinated mission-planning and squadron-management environment.
